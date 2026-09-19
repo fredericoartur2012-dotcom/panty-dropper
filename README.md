@@ -2,9 +2,6 @@
 
 Página da receita do cocktail Panty Dropper. Um único ficheiro HTML, sem dependências de build, com CSS e JavaScript embutidos e a fotografia incluída como data URI.
 
-## Ver online
-
-Publicado com GitHub Pages: `https://<utilizador>.github.io/panty-dropper/`
 
 ## Correr localmente
 
